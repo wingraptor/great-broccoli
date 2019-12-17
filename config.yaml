@@ -11,7 +11,7 @@ params:
     bg_img: ''
     has_nav: true
     has_social: true
-    logo_img: images/logo.png
+    logo_img: /images/deplantuhman.png
     tagline: For the Growth of The Nation
     title: De Plantuh Man
   palette: green
