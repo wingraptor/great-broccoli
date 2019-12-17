@@ -14,7 +14,7 @@ params:
     logo_img: ''
     tagline: For the Growth of The Nation
     title: De Plantuh Man
-  palette: green
+  palette: red
 disableKinds:
   - RSS
   - taxonomy
