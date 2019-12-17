@@ -8,7 +8,7 @@ params:
         text: Made with Stackbit
         url: 'https://www.stackbit.com'
   header:
-    bg_img: ''
+    bg_img: /images/chuttersnap-9g1kxjqoq4u-unsplash-min.jpg
     has_nav: true
     has_social: true
     logo_img: /images/deplantuhman.png
