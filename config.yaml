@@ -14,7 +14,7 @@ params:
     logo_img: images/logo.png
     tagline: For the Growth of The Nation
     title: Fjord
-  palette: yellow
+  palette: green
 disableKinds:
   - RSS
   - taxonomy
