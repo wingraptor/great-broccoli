@@ -13,7 +13,7 @@ params:
     has_social: true
     logo_img: images/logo.png
     tagline: For the Growth of The Nation
-    title: Fjord
+    title: De Plantuh Man
   palette: green
 disableKinds:
   - RSS
