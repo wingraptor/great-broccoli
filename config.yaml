@@ -8,10 +8,10 @@ params:
         text: Made with Stackbit
         url: 'https://www.stackbit.com'
   header:
-    bg_img: /images/markus-winkler-heqxgxnsnx4-unsplash.jpg
+    bg_img: /images/muhamad-rizal-firmansyah-akeea3_skmm-unsplash.jpg
     has_nav: true
     has_social: true
-    logo_img: /images/deplantuhman9.png
+    logo_img: ''
     tagline: For the Growth of The Nation
     title: De Plantuh Man
   palette: green
